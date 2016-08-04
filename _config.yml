@@ -6,9 +6,9 @@ color:
   saturation: 0.17607639823108912
   rhythmicContrast: 0.6862097000703216
   brandColors:
-    - '#1A171B'
-    - '#783B81'
-    - '#FFFFFF'
-    - '#550055'
-    - '#C2A7C6'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: nbs
